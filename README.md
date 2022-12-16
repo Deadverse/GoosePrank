@@ -6,7 +6,7 @@ twitter.com/samnchiet
 patreon.com/sammakesvr
 ...just search "Sam Chiet" on YouTube.
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+-----------------------------------------------------------------------------------------------
 -Some legal stuff-
 Honks sampled from Untitled Goose Game (go play it!)
 

